@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwP57wMZKC4lJU+A3IlWI7dRm1HM3DE1r2vl2P/cGjlHVhtyy7yfsDBSqhdFhW3pxFdAx7SDgqN/lpTLeHFaeQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitProjects\\SslStream\\BordaAndresSslStream\\ClientSSL\\ClientSSL\\ClientSSL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
